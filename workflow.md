@@ -1,10 +1,10 @@
-Introducción a la Electrónica y el Hardware
+# Introducción a la Electrónica y el Hardware
 
 La electrónica es una rama fundamental de la ingeniería que se encarga del estudio y aplicación de dispositivos que controlan el flujo de corriente eléctrica. Está presente en prácticamente todos los sistemas modernos, desde ordenadores y teléfonos móviles hasta sistemas industriales y dispositivos médicos.
 
 El hardware, por su parte, hace referencia al conjunto de componentes físicos que conforman un sistema electrónico o informático.
 
-Componentes Electrónicos Básicos
+# Componentes Electrónicos Básicos
 
 Los componentes electrónicos son los elementos fundamentales que permiten construir circuitos. Algunos de los más comunes son:
 
@@ -18,7 +18,9 @@ Transistores: actúan como interruptores o amplificadores de señal.
 
 Estos componentes se combinan para formar circuitos capaces de realizar tareas específicas.
 
-Imagen sugerida: una fotografía o diagrama con resistencias, condensadores y transistores.
+## 🖼️ Imagen
+
+![foto-icon](./images/electronica-digital.jpg)
 
 Hardware y Arquitectura de un Sistema
 
@@ -41,3 +43,7 @@ Importancia del Control de Documentación Técnica
 En proyectos de electrónica y hardware es habitual trabajar con documentación técnica en formato Markdown. Este formato permite mantener documentos claros, versionables y fáciles de revisar mediante sistemas de control de versiones como Git.
 
 Para asegurar la calidad de esta documentación, se pueden utilizar herramientas automáticas que validen el formato y el contenido de los archivos Markdown.
+
+# Enlace
+
+[📚 Ver más información](https://nestor-12.github.io/website-NestorMarchese/enlaces/Curso.html)  
