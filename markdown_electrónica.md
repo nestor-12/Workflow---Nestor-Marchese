@@ -18,7 +18,7 @@ El hardware, por su parte, hace referencia al conjunto de componentes físicos q
 
 - Estos componentes se combinan para formar circuitos capaces de realizar tareas específicas.
 
-## 🖼️ COMPONENTES ESENCIALES
+## 🖼️ COMPONENTES ESENCIALES PARA UNA PLACA MADRE.
 
 ![foto-icon](./images/electronica-digital.jpg)
 
@@ -39,7 +39,7 @@ El hardware de un sistema informático está compuesto por distintos elementos q
 
 -> Importancia del Control de Documentación Técnica <-
 
-## 🖼️ COMPONENTES DE UN ORDENADOR
+## 🖼️ COMPONENTES ESENCIALES PARA MONTAR UN ORDENADOR
 
 ![foto-icon](./images/Montar-PC.jpg)
 
@@ -50,6 +50,7 @@ El hardware de un sistema informático está compuesto por distintos elementos q
 # Enlaces acerca de componentes que uno puede comprar y que les pueda servir para armar su PC.
 
 [📚 Link de componentes 1](https://www.mcr.com.es/buscar-categoria/componentes-integracion)
+
 
 
 [📚 Link de componentes 2](https://www.pccomponentes.com/componentes).
