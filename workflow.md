@@ -6,19 +6,19 @@ El hardware, por su parte, hace referencia al conjunto de componentes físicos q
 
 # Componentes Electrónicos Básicos
 
-Los componentes electrónicos son los elementos fundamentales que permiten construir circuitos. Algunos de los más comunes son:
+- Los componentes electrónicos son los elementos fundamentales que permiten construir circuitos. Algunos de los más comunes son:
 
-Resistencias: limitan o regulan el paso de corriente.
+- Resistencias: limitan o regulan el paso de corriente.
 
-Condensadores: almacenan energía eléctrica temporalmente.
+- Condensadores: almacenan energía eléctrica temporalmente.
 
-Diodos: permiten el paso de corriente en un solo sentido.
+- Diodos: permiten el paso de corriente en un solo sentido.
 
-Transistores: actúan como interruptores o amplificadores de señal.
+- Transistores: actúan como interruptores o amplificadores de señal.
 
-Estos componentes se combinan para formar circuitos capaces de realizar tareas específicas.
+- Estos componentes se combinan para formar circuitos capaces de realizar tareas específicas.
 
-## 🖼️ Imagen
+## 🖼️ 
 
 ![foto-icon](./images/electronica-digital.jpg)
 
@@ -26,24 +26,31 @@ Hardware y Arquitectura de un Sistema
 
 El hardware de un sistema informático está compuesto por distintos elementos que trabajan de forma conjunta:
 
-Procesador (CPU): ejecuta las instrucciones del sistema.
+- Procesador (CPU): ejecuta las instrucciones del sistema.
 
-Memoria RAM: almacena datos temporales durante la ejecución.
+- Memoria RAM: almacena datos temporales durante la ejecución.
 
-Placa base (Motherboard): conecta y comunica todos los componentes.
+- Placa base (Motherboard): conecta y comunica todos los componentes.
 
-Almacenamiento: discos duros o unidades SSD para datos persistentes.
+- Almacenamiento: discos duros o unidades SSD para datos persistentes.
 
-Cada uno de estos componentes influye directamente en el rendimiento y capacidades del sistema.
+- Cada uno de estos componentes influye directamente en el rendimiento y capacidades del sistema.
 
-Imagen sugerida: esquema de una placa base con CPU, RAM y dispositivos conectados.
 
-Importancia del Control de Documentación Técnica
+-> Importancia del Control de Documentación Técnica <-
 
-En proyectos de electrónica y hardware es habitual trabajar con documentación técnica en formato Markdown. Este formato permite mantener documentos claros, versionables y fáciles de revisar mediante sistemas de control de versiones como Git.
+## 🖼️ COMPONENTES DE UN ORDENADOR
 
-Para asegurar la calidad de esta documentación, se pueden utilizar herramientas automáticas que validen el formato y el contenido de los archivos Markdown.
+![foto-icon](./images/Montar-PC.jpg)
 
-# Enlace
+# Enlace acerca de más información
 
-[📚 Ver más información](https://nestor-12.github.io/website-NestorMarchese/enlaces/Curso.html)  
+[📚 Ver más información]((https://es.wikipedia.org/wiki/Electr%C3%B3nica))
+
+# Enlaces acerca de componentes que uno puede comprar y que les pueda servir para armar su PC.
+
+[📚 Ver más información]((https://www.mcr.com.es/buscar-categoria/componentes-integracion))
+
+[📚 Ver más información]((https://www.pccomponentes.com/componentes)).
+
+
